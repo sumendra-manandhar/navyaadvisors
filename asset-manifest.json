@@ -1,17 +1,13 @@
 {
   "files": {
     "main.css": "/navyaadvisors.git/static/css/main.8b797ee7.css",
-    "main.js": "/navyaadvisors.git/static/js/main.4791076a.js",
-    "static/media/feature-1.png": "/navyaadvisors.git/static/media/feature-1.b2a3269f8d3873ccf550.png",
-    "static/media/feature-2.png": "/navyaadvisors.git/static/media/feature-2.71cfc1605e78a3968d85.png",
-    "static/media/hero.png": "/navyaadvisors.git/static/media/hero.8c8c01f41b3e1e430ce6.png",
-    "static/media/logo.png": "/navyaadvisors.git/static/media/logo.d0e0b989016a11a1563b.png",
+    "main.js": "/navyaadvisors.git/static/js/main.5c81cca6.js",
     "index.html": "/navyaadvisors.git/index.html",
     "main.8b797ee7.css.map": "/navyaadvisors.git/static/css/main.8b797ee7.css.map",
-    "main.4791076a.js.map": "/navyaadvisors.git/static/js/main.4791076a.js.map"
+    "main.5c81cca6.js.map": "/navyaadvisors.git/static/js/main.5c81cca6.js.map"
   },
   "entrypoints": [
     "static/css/main.8b797ee7.css",
-    "static/js/main.4791076a.js"
+    "static/js/main.5c81cca6.js"
   ]
 }
