@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/navyaadvisors/static/css/main.8b797ee7.css",
-    "main.js": "/navyaadvisors/static/js/main.deccf337.js",
+    "main.js": "/navyaadvisors/static/js/main.9b633ef5.js",
     "static/media/feature-1.png": "/navyaadvisors/static/media/feature-1.b2a3269f8d3873ccf550.png",
     "static/media/feature-2.png": "/navyaadvisors/static/media/feature-2.71cfc1605e78a3968d85.png",
     "static/media/hero.png": "/navyaadvisors/static/media/hero.8c8c01f41b3e1e430ce6.png",
     "static/media/logo.png": "/navyaadvisors/static/media/logo.d0e0b989016a11a1563b.png",
     "index.html": "/navyaadvisors/index.html",
     "main.8b797ee7.css.map": "/navyaadvisors/static/css/main.8b797ee7.css.map",
-    "main.deccf337.js.map": "/navyaadvisors/static/js/main.deccf337.js.map"
+    "main.9b633ef5.js.map": "/navyaadvisors/static/js/main.9b633ef5.js.map"
   },
   "entrypoints": [
     "static/css/main.8b797ee7.css",
-    "static/js/main.deccf337.js"
+    "static/js/main.9b633ef5.js"
   ]
 }
